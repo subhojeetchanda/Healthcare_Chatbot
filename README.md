@@ -69,7 +69,7 @@ Access the chatbot on `http://127.0.0.1:5000/`
 ## 👥 **Contributors**  
 - 🧑‍💻 [Arnab Mondal](https://github.com/ArnabTechiee)  
 - 👩‍💻 [Shreesh Sanyal](https://github.com/SHREESH2004)  
-- 🧑‍💻 [Gaurang Pant](https://github.com/username)  
+- 🧑‍💻 [Gaurang Pant](https://github.com/Gaurang010)  
 
 ---
 

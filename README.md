@@ -76,10 +76,6 @@ Access the chatbot on `http://127.0.0.1:5000/`
 ## 🎉 **Acknowledgments**  
 A huge thanks to **Google Cloud & VIT-AP University** for organizing the **Google Devs Sprint 2K25 Hackathon**, where this project was built! 🚀  
 
----
 
 ## ⭐ **Support & Contribution**  
 Like our project? Give us a ⭐ and feel free to contribute! Pull requests are welcome.  
-
----
-```
